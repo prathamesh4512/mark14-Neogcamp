@@ -81,10 +81,10 @@ input:focus {
 }
 
 .footer {
-  position: absolute;
+  /* position: absolute;
   bottom: 0;
   right: 0;
-  left: 0;
+  left: 0; */
   text-align: center;
   background-color: var(--primary-color);
   padding: 0.7rem;
